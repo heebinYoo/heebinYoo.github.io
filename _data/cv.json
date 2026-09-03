@@ -1,152 +1,227 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Hee Bin Yoo",
+    "email": "yooheebin@snu.ac.kr",
+    "phone": "+82-10-8939-2751",
+    "website": "https://heebinYoo.github.io",
+    "summary": "Assistant Professor at the School of AI Software, Soongsil University. Research interests include feature learning theory, neural collapse, metric learning, machine unlearning, deep reinforcement learning dynamics, stochastic control, Schrodinger bridge, equivariant convolution, and Spatial AI.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": "South Korea"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Hee Bin Yoo",
+        "url": "https://scholar.google.com/citations?user=tKPHQFIAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "heebinYoo",
+        "url": "https://github.com/heebinYoo"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "Soongsil University",
+      "position": "Assistant Professor, School of AI Software",
+      "startDate": "2026-09",
+      "endDate": "",
+      "summary": "Tenure-track Assistant Professor in Seoul, Korea."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "name": "R inc.",
+      "position": "Founder, CEO, Head Architect",
+      "startDate": "2013-03",
+      "endDate": "2019-01",
+      "summary": "Architected and developed Android and web services; led consulting, requirement analysis, negotiation, sales, management, contracting, legal, and tax work."
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "name": "SW",
+      "position": "Researcher, Global Operations Support",
+      "startDate": "2021-11",
+      "endDate": "2026",
+      "url": "http://swchemco.com",
+      "summary": "Designed process automation for wastewater treatment and coordinated overseas business trips, client meetings, and professional networking."
+    },
+    {
+      "name": "Jness",
+      "position": "Intern",
+      "startDate": "2020-07",
+      "endDate": "2020-08",
+      "url": "http://www.jness.co.kr",
+      "summary": "Managed maintenance channels, handled maintenance requests, coordinated development communication, and developed maintenance management software."
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "education": [
+    {
+      "institution": "Seoul National University",
+      "area": "Artificial Intelligence",
+      "studyType": "MA/Ph.D.",
+      "startDate": "2021",
+      "endDate": "2026",
+      "gpa": "3.52/4.30",
+      "courses": [
+        "Feature Learning Theory",
+        "Neural Collapse",
+        "Unlearning",
+        "Metric Learning",
+        "Deep Reinforcement Learning Dynamics",
+        "Stochastic Control",
+        "Schrodinger Bridge",
+        "Equivariant Convolution"
+      ]
+    },
+    {
+      "institution": "Chung-Ang University",
+      "area": "Computer Science and Engineering",
+      "studyType": "B.S.",
+      "startDate": "2018",
+      "endDate": "2021",
+      "gpa": "Overall 4.36/4.50; Major 4.48/4.50",
+      "courses": [
+        "Metric Learning",
+        "Deep 3D Vision",
+        "3D Reconstruction"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "PyTorch", "NumPy", "Faiss", "Java", "Spring", "C", "C++", "OpenCV", "x86 assembly", "SQL", "JavaScript", "Node.js", "React"]
+    },
+    {
+      "name": "Research",
+      "keywords": ["Feature learning theory", "Metric learning", "Machine unlearning", "Spatial AI", "Deep reinforcement learning dynamics", "Stochastic control", "Equivariant convolution"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent; TOEFL MyBest 103 on Nov. 28, 2023"
+    },
+    {
+      "language": "Japanese, Chinese, Spanish",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Machine learning theory",
+      "keywords": ["Feature learning", "Neural collapse", "Transfer"]
+    },
+    {
+      "name": "Computer vision and robotics",
+      "keywords": ["Metric learning", "3D vision", "Point clouds", "Vision-language-action models"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Junseok Kwon",
+      "reference": "Professor, School of Computer Science and Engineering, Chung-Ang University"
+    },
+    {
+      "name": "Byoung-Tak Zhang",
+      "reference": "Ph.D. Advisor; Professor, Interdisciplinary Program in Artificial Intelligence, Seoul National University"
+    },
+    {
+      "name": "Bruno Loureiro",
+      "reference": "Professeur Attache & Researcher, ENS & CNRS, Departement d'Informatique"
+    },
+    {
+      "name": "Sungyoon Lee",
+      "reference": "Assistant Professor, Department of Computer Science, Hanyang University"
+    },
+    {
+      "name": "Cheongjae Jang",
+      "reference": "Research Professor, BK-FOUR, Hanyang University"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Focus on the Moment: Real-Time Semantic Failure Detection in Vision-Language-Action Models",
+      "publisher": "3rd Workshop on Semantic Reasoning and Goal Understanding in Robotics, RSS 2026",
+      "releaseDate": "2026",
+      "website": "https://openreview.net/forum?id=fWN2jSqJkW",
+      "summary": "Seul Kim, Hee Bin Yoo, and Byoung-Tak Zhang."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Confidence Controls Deep Metric Learning",
+      "publisher": "Machine Learning",
+      "releaseDate": "2026",
+      "website": "https://doi.org/10.1007/s10994-026-07032-y",
+      "summary": "Jinhee Park, Hee Bin Yoo, Byoung-Tak Zhang, and Junseok Kwon."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "How Classifier Features Transfer to Downstream: An Asymptotic Analysis in a Two-Layer Model",
+      "publisher": "NeurIPS",
+      "releaseDate": "2025",
+      "website": "https://openreview.net/forum?id=QRKg5GA9Zo",
+      "summary": "Hee Bin Yoo, Sungyoon Lee, Cheongjae Jang, Dong-Sig Han, Jaein Kim, Seunghyeon Lim, and Byoung-Tak Zhang."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "AI Lunch Seminar",
+      "event": "Seoul National University",
+      "date": "2025-11-27",
+      "location": "Seoul, Korea",
+      "description": "Invited oral presentation on classifier feature transfer to downstream tasks."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Brown Bag Seminar Poster Presentation",
+      "event": "6th Brown Bag Seminar, Seoul National University",
+      "date": "2025-11-25",
+      "location": "Seoul, Korea",
+      "description": "Poster presentation on classifier feature transfer in a two-layer model."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "EWHA-CUHK Global Student Partnership Program",
+      "event": "EWHA-CUHK GSP Program",
+      "date": "2026-07-28",
+      "location": "Seoul, Korea",
+      "description": "Seminar and guided lab tour on Physical AI and lab research activities."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Yongsan High School Project Advising and Competition Judging",
+      "institution": "Yongsan High School",
+      "date": "2018-03-01",
+      "role": "Advisor and Judge",
+      "description": "Advised Computer Science Club projects and judged annual research, IoT, and project competitions."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Hyundai NGV Machine Learning Training Material Development",
+      "institution": "Seoul National University / Hyundai NGV",
+      "date": "2024-12-01",
+      "role": "Training material developer",
+      "description": "Planned and developed a five-session machine learning lecture series for in-house employee training."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Posenet-Based Strength Training Calorie Estimation",
+      "category": "software",
+      "date": "2021",
+      "url": "https://github.com/heebinYoo/pose-estimation-based-calorie-calculator",
+      "description": "Calorie burn estimation system through body posture graph inference."
+    },
+    {
+      "name": "CQB Simulation System Based on 3D Scanning and VSLAM",
+      "category": "software",
+      "date": "2020",
+      "url": "https://github.com/Team-AllyHyeseongKim",
+      "description": "Survival game system using localization, 3D scanning, 3D reconstruction, and physics engines."
     }
   ]
 }

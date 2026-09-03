@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "AI Lunch Seminar<br />Seoul National University; Seoul, Korea",
+    37.4602,
+    126.9519
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Brown Bag Seminar Poster Presentation<br />Seoul National University; Seoul, Korea",
+    37.4602,
+    126.9519
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "EWHA-CUHK Global Student Partnership Program<br />Seoul, Korea",
+    37.5665,
+    126.9780
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Visiting Research at Centre for Data Science<br />Ecole Normale Superieure; Paris, France",
+    48.8419,
+    2.3447
   ]
 ];
