@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Notice: This website is currently under construction. Some content may be incomplete, inaccurate, or generated with AI and may contain hallucinations. Please check back later for updates.
+
 I am an Assistant Professor in the School of AI Software at Soongsil University, Seoul, Korea. My research focuses on feature learning theory, neural collapse, metric learning, machine unlearning, deep reinforcement learning dynamics, stochastic control, Schrodinger bridge methods, equivariant convolution, and Spatial AI.
 
 Before joining Soongsil University, I was a MA/Ph.D. student in Artificial Intelligence at Seoul National University, where I worked in the Biointelligence Lab. I received a B.S. in Computer Science and Engineering from Chung-Ang University, graduating summa cum laude.
