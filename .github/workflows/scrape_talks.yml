@@ -1,11 +1,9 @@
 name: Scrape Talk Locations
 
+# Talkmap is disabled on the site, so this no longer runs on every push.
+# Run it manually from the Actions tab if the talk map is re-enabled.
 on:
-  push:
-    paths:
-      - 'talks/**'
-      - '_talks/**'
-      - 'talkmap.ipynb'
+  workflow_dispatch:
 
 jobs:
   build:
