@@ -1,7 +1,7 @@
 ---
 title: "Focus on the Moment: Real-Time Semantic Failure Detection in Vision-Language-Action Models"
 collection: publications
-category: conferences
+category: workshops
 permalink: /publication/2026-01-07-semantic-failure-detection-vla
 excerpt: "RSS 2026 workshop paper."
 date: 2026-01-07

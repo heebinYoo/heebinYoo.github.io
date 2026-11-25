@@ -11,7 +11,7 @@ redirect_from:
 
 Summary
 ======
-Ph.D. candidate in Artificial Intelligence at Seoul National University, working on feature learning theory, metric learning, machine unlearning, and Spatial AI. Author of publications in leading venues including NeurIPS, CVPR, AAAI, ECCV, ICRA, and TMLR. Background spans both research and practice, including software development and founding a startup.
+Assistant Professor (tenure-track) in the School of AI Software at Soongsil University, Seoul. Ph.D. in Artificial Intelligence from Seoul National University, working on feature learning theory, metric learning, machine unlearning, and Spatial AI. Author of publications in leading venues including NeurIPS, CVPR, AAAI, ECCV, ICRA, and TMLR. Background spans both research and practice, including software development and founding a startup.
 
 Education
 ======
@@ -27,7 +27,7 @@ Education
 
 Work Experience
 ======
-* Sep. 2026 - present: Assistant Professor, School of AI Software, Soongsil University, Seoul, Korea
+* Sep. 2026 - present: Assistant Professor (Tenure-track), School of AI Software, Soongsil University, Seoul, Korea
 * Mar. 2013 - Jan. 2019: Founder, CEO, and Head Architect, R inc., Seoul, Korea
   * Architected and developed Android and web services
   * Led consulting, requirement analysis, negotiation, sales, management, contracting, legal, and tax work

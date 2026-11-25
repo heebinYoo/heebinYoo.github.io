@@ -8,4 +8,4 @@ date: 2025-11-27
 location: "Seoul, Korea"
 ---
 
-Delivered an invited talk titled "How Classifier Features Transfer to Downstream: An Asymptotic Analysis in a Two-Layer Model." Presented theoretical insights on feature transfer in neural networks and conditions for generalization to unseen classes.
+Delivered an invited talk titled "How Classifier Features Transfer to Downstream: An Asymptotic Analysis in a Two-Layer Model" (NeurIPS 2025). Presented theoretical insights on feature transfer in neural networks and conditions for generalization to unseen classes.

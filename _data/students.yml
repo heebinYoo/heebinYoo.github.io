@@ -1,0 +1,15 @@
+# Lab members shown on the Students page (/students/).
+# Add a person under the right group, e.g.
+#
+#   phd:
+#     - name: "Gil-dong Hong"
+#       since: "2027"
+#       interests: "Feature learning theory"
+#       homepage: "https://example.com"   # optional
+#
+# Leave a group as [] while it has no members; the page then shows "Open positions".
+
+phd: []
+ms: []
+undergrad: []
+alumni: []

@@ -8,4 +8,4 @@ date: 2025-11-25
 location: "Seoul, Korea"
 ---
 
-Presented the poster "How Classifier Features Transfer to Downstream: An Asymptotic Analysis in a Two-Layer Model" at the 6th Brown Bag Seminar, attended by over 150 researchers across interdisciplinary clusters.
+Presented the poster "How Classifier Features Transfer to Downstream: An Asymptotic Analysis in a Two-Layer Model" (NeurIPS 2025) at the 6th Brown Bag Seminar, attended by over 150 researchers across interdisciplinary clusters.

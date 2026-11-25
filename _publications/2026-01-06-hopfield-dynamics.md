@@ -1,7 +1,7 @@
 ---
 title: "Deep Neural Networks as Finite-Step Hopfield Dynamics"
 collection: publications
-category: conferences
+category: workshops
 permalink: /publication/2026-01-06-hopfield-dynamics
 excerpt: "New Frontiers in Associative Memories Workshop at ICLR 2026."
 date: 2026-01-06

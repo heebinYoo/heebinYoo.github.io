@@ -1,6 +1,7 @@
 ---
 title: "Explore Unseen Embedding via Spectral Information in Classifier-based Metric Learning"
 collection: publications
+published: false
 category: manuscripts
 permalink: /publication/2026-09-01-explore-unseen-embedding
 excerpt: "Working paper."
