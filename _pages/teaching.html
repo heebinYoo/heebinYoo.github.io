@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Talks & Teaching"
-permalink: /talks/
+title: "Teaching & Talks"
+permalink: /teaching/
 author_profile: true
 redirect_from:
-  - /teaching/
+  - /talks/
 ---
 
 <style>
@@ -14,6 +14,19 @@ redirect_from:
   .tt-list .archive__item-title { font-size: 1.05em; margin-top: 1.2em; }
 </style>
 
+<h2 class="tt-section">Teaching</h2>
+<div class="tt-list">
+{% for c in site.data.courses %}
+<div class="list__item">
+  <article class="archive__item">
+    <h2 class="archive__item-title">{{ c.title }}</h2>
+    <p class="archive__item-excerpt">{{ c.term }}, {{ c.institution }}</p>
+    <p class="archive__item-excerpt">{{ c.description }}</p>
+  </article>
+</div>
+{% endfor %}
+</div>
+
 <h2 class="tt-section">Talks and Seminars</h2>
 <div class="tt-list">
 {% for post in site.talks reversed %}
@@ -21,7 +34,7 @@ redirect_from:
 {% endfor %}
 </div>
 
-<h2 class="tt-section">Teaching and Advising</h2>
+<h2 class="tt-section">Advising</h2>
 <div class="tt-list">
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}

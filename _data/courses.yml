@@ -1,0 +1,9 @@
+# Courses shown in the Teaching section of the Teaching & Talks page (newest first).
+- title: "AI Service Architecture (AI서비스아키텍처)"
+  term: "Fall 2026"
+  institution: "Department of Digital Finance AI, Soongsil University"
+  description: "Building LLM-based AI services: embeddings and chunking, RAG with vector databases, LLM serving (Ollama, vLLM), API-based service architecture, agentic RAG, and MCP/function calling."
+- title: "Introduction to Artificial Intelligence (인공지능입문)"
+  term: "Fall 2026 · 2 sections"
+  institution: "School of AI Software, Soongsil University"
+  description: "Foundations of AI based on Russell & Norvig: intelligent agents, search, constraint satisfaction, adversarial search, logic, knowledge representation, and planning."
