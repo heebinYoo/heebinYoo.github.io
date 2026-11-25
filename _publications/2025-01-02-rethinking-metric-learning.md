@@ -7,6 +7,7 @@ excerpt: "IEEE Access, 2025."
 date: 2025-01-02
 venue: "IEEE Access"
 paperurl: "https://doi.org/10.1109/ACCESS.2025.3637551"
+authors: "Jinhee Park*, <b>Hee Bin Yoo</b>*, Byoung-Tak Zhang, and Junseok Kwon"
 citation: "Jinhee Park*, <b>Hee Bin Yoo</b>*, Byoung-Tak Zhang, and Junseok Kwon. (2025). &quot;Rethinking Metric Learning: Enhancing Generalization to Unseen Classes.&quot; <i>IEEE Access</i>, 13, 201156-201165."
 ---
 

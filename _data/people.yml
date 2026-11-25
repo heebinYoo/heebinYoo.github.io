@@ -1,0 +1,68 @@
+# People page (/people/). Add a person under the right group, e.g.
+#
+#   phd:
+#     - name: "Gil-dong Hong"
+#       since: "2027"                      # optional
+#       interests: "Feature learning theory" # optional
+#       homepage: "https://example.com"    # optional
+#
+# Leave phd/ms/undergrad as [] while empty; the page then shows "Open positions".
+# alumni and co_advised are hidden while empty.
+
+phd: []
+ms: []
+undergrad: []
+
+# Co-advised with Prof. Byoung-Tak Zhang, Biointelligence Lab, Seoul National University
+co_advised:
+  - name: "Su-Jin Jeon"
+    degree: "Ph.D. Student"
+    homepage: "https://bi.snu.ac.kr/members/sujin-jeon.html"
+  - name: "Seul Kim"
+    degree: "M.S. Student"
+    homepage: "https://bi.snu.ac.kr/members/seul-kim.html"
+  - name: "Ngseo Kim"
+    degree: "M.S. Student"
+    homepage: "https://bi.snu.ac.kr/members/eungseo-kim.html"
+  - name: "Wooyul Jung"
+    degree: "M.S. Student"
+    homepage: "https://bi.snu.ac.kr/members/wooyul-jung.html"
+  - name: "Hyeonbin Park"
+    degree: "M.S. Student"
+    homepage: "https://bi.snu.ac.kr/members/hyeonbin-park.html"
+
+coworkers:
+  - name: "Dong-Sig Han"
+    affiliation: "Research Associate, CIRCLE Group, Department of Computing, Imperial College London"
+    homepage: "https://dshan4585.github.io"
+  - name: "Jaein Kim"
+    affiliation: "Postdoctoral Researcher, Artificial Intelligence Institute, Seoul National University"
+    homepage: "https://scholar.google.com/citations?user=6xSSU-8AAAAJ"
+  - name: "Minhyeong Lee"
+    affiliation: "Undergraduate Student, REALITY Lab (Prof. Heewon Kim), Soongsil University"
+  - name: "Bruno Loureiro"
+    affiliation: "Senior researcher (directeur de recherche), <a href='https://www.di.ens.fr/'>Computer Science Department</a>, <a href='https://www.ens.psl.eu/'>École Normale Supérieure</a>, Paris"
+    note: "Hosted my research visit to ENS (Feb.–Mar. 2026); our collaboration on feature learning theory is ongoing."
+    homepage: "https://brloureiro.github.io"
+  - name: "Sungyoon Lee"
+    affiliation: "Assistant Professor, Computer Science and Artificial Intelligence, Hanyang University (LRNING)"
+    homepage: "https://sites.google.com/view/sungyoon-lee/home"
+  - name: "Yoonsoo Nam"
+    affiliation: "Postdoctoral Researcher, Center for Large Language Model Innovation (InnoCORE-LLM), KAIST"
+    homepage: "https://yoonsoonam119.github.io"
+
+collaborators:
+  - name: "Byoung-Tak Zhang"
+    affiliation: "Professor, Interdisciplinary Program in Artificial Intelligence, Seoul National University (Biointelligence Lab)"
+    homepage: "https://bi.snu.ac.kr"
+  - name: "Junseok Kwon"
+    affiliation: "Professor, School of Computer Science and Engineering, Chung-Ang University (Computer Vision Machine Learning Lab)"
+    homepage: "https://sites.google.com/view/cau-cvml/"
+  - name: "Cheongjae Jang"
+    affiliation: "Research Professor, BK-FOUR, Hanyang University"
+    homepage: "https://scholar.google.com/citations?user=VXAyVXYAAAAJ"
+  - name: "Minsu Lee"
+    affiliation: "Assistant Professor, School of AI Convergence, Sungshin Women's University (Autonomous Machine Intelligence Lab)"
+    homepage: "https://amilab-sswu.github.io"
+
+alumni: []

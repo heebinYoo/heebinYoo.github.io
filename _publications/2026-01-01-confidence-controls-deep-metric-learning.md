@@ -7,6 +7,7 @@ excerpt: "Machine Learning, 2026."
 date: 2026-01-01
 venue: "Machine Learning"
 paperurl: "https://doi.org/10.1007/s10994-026-07032-y"
+authors: "Jinhee Park, <b>Hee Bin Yoo</b>, Byoung-Tak Zhang, and Junseok Kwon"
 citation: "Jinhee Park, <b>Hee Bin Yoo</b>, Byoung-Tak Zhang, and Junseok Kwon. (2026). &quot;Confidence Controls Deep Metric Learning.&quot; <i>Machine Learning</i>, 115, 77."
 ---
 

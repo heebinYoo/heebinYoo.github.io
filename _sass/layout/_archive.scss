@@ -79,7 +79,8 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  .archive__item-title {
+  /* only linked titles react on hover; plain-text titles stay static */
+  .archive__item-title a {
     text-decoration: underline;
   }
 }

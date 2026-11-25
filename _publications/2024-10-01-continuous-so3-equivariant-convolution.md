@@ -5,7 +5,9 @@ category: conferences
 permalink: /publication/2024-10-01-continuous-so3-equivariant-convolution
 excerpt: "ECCV 2024 poster."
 date: 2024-10-01
-venue: "European Conference on Computer Vision"
+venue: "European Conference on Computer Vision (ECCV)"
+paperurl: "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06843.pdf"
+authors: "Jaein Kim, <b>Hee Bin Yoo</b>, Dong-Sig Han, Yeon-Ji Song, and Byoung-Tak Zhang"
 citation: "Jaein Kim, <b>Hee Bin Yoo</b>, Dong-Sig Han, Yeon-Ji Song, and Byoung-Tak Zhang. (2024). &quot;Continuous SO(3) Equivariant Convolution for 3D Point Cloud Analysis.&quot; <i>European Conference on Computer Vision</i>, Springer, 59-75."
 ---
 

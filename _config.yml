@@ -29,7 +29,7 @@ author:
   bio              : "Assistant Professor at the School of AI Software, Soongsil University"
   location         : "Seoul, South Korea"
   employer         : "Soongsil University"
-  uri              : "https://heebinYoo.github.io"
+  uri              : 
   email            : "yooheebin@ssu.ac.kr" 
 
   # Academic websites
@@ -86,10 +86,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'
   workshops:
     title: 'Workshop Papers'
 
@@ -172,6 +172,10 @@ include:
   - _pages
   - files
 exclude:
+  - 관련자료
+  - 관련자료
+  - autoCV
+  - serve.sh
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -228,16 +232,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false # list-only; no separate detail pages
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false # list-only; titles link to the paper itself
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false # list-only; no separate detail pages
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false # list-only; no separate detail pages
     permalink: /:collection/:path/
 
 

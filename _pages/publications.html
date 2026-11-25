@@ -11,16 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
+<p class="archive__item-excerpt">* Equal contribution &nbsp;&nbsp; &dagger; Corresponding author</p>
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% assign category_order = "conferences,manuscripts,workshops,books" | split: "," %}
+  {% for cat_key in category_order %}
+    {% assign category = site.publication_category[cat_key] %}
+    {% unless category %}{% continue %}{% endunless %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
+      {% if post.category != cat_key %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2>{{ category.title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}

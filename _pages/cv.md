@@ -43,7 +43,8 @@ Work Experience
 Visiting and Collaborations
 ======
 * Feb. 2026 - Mar. 2026: Visiting researcher, Centre for Data Science, Ecole Normale Superieure, Paris
-  * Hosted by Bruno Loureiro; studied feature learning theory in two-layer neural networks using statistical physics approaches
+  * Hosted by [Bruno Loureiro](https://brloureiro.github.io); studied feature learning theory in two-layer neural networks using statistical physics approaches
+  * The collaboration with Bruno Loureiro has continued after the visit
 * Jun. 2024 - present: Collaborator, Learning, Reasoning & Intelligence Group, Hanyang University
   * Collaborating with Sungyoon Lee on theoretical research for practical computer vision problems, including image retrieval and backdoor attacks
 * 2021 - present: Collaborator, Computer Vision Machine Learning Lab, Chung-Ang University
@@ -89,16 +90,7 @@ Scholarship
 
 Grants
 ======
-* Artificial Intelligence Graduate School Program, Seoul National University, Apr. 2021 - Dec. 2030
-  * Ministry of Science and ICT; total grant KRW 42,300,000,000; personal funding received KRW 46,492,321
-* Self-directed AI Agents with Problem-solving Capability, Seoul National University, Apr. 2022 - Dec. 2026
-  * Ministry of Science and ICT; total grant KRW 4,750,000,000; personal funding received KRW 15,060,000
-* Artificial Intelligence Innovation Hub, Seoul National University, Jul. 2021 - Dec. 2025
-  * Ministry of Science and ICT; total grant KRW 47,076,000,000; personal funding received KRW 1,080,000
-* Hyundai NGV Machine Learning Training Material Development, Seoul National University, Dec. 2024 - Feb. 2025
-  * Hyundai NGV; total grant KRW 72,727,273; personal funding received KRW 4,024,800
-* SW Star Lab: Cognitive Agents That Learn Everyday Life, Seoul National University, Mar. 2015 - Dec. 2022
-  * Total grant KRW 2,348,000,000; personal funding received KRW 5,040,000
+See [Grants & Projects](/portfolio/) for the list of research grants.
 
 Skills
 ======

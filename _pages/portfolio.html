@@ -1,13 +1,41 @@
 ---
 layout: archive
-title: "Projects"
+title: "Grants & Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<style>
+  #main .page__title { display: none; }
+  .pg-section { font-size: 1.45em; margin: 2.2em 0 0.8em; padding-bottom: 0.35em; border-bottom: 2px solid currentColor; }
+  .pg-section:first-of-type { margin-top: 0.6em; }
+  .pg-list .archive__item-title { font-size: 1.05em; margin-top: 1.2em; }
+</style>
 
-{% for post in site.portfolio %}
+<h2 class="pg-section">Research Grants</h2>
+<div class="pg-list">
+{% for g in site.data.grants %}
+<div class="list__item">
+  <article class="archive__item">
+    <h3 class="archive__item-title">{{ g.title }}</h3>
+    <p class="archive__item-excerpt">{{ g.institution }}, {{ g.period }}</p>
+    <p class="archive__item-excerpt">{% if g.agency %}Funding agency: {{ g.agency }}; {% endif %}Total grant: {{ g.total }}; <strong>Personal funding received: {{ g.personal }}</strong></p>
+    {% if g.description %}<p class="archive__item-excerpt">{{ g.description }}</p>{% endif %}
+  </article>
+</div>
+{% endfor %}
+</div>
+
+{% assign groups = "rinc|Projects at R inc.,cau|Projects at Chung-Ang University" | split: "," %}
+{% for grp in groups %}
+{% assign parts = grp | split: "|" %}
+<h2 class="pg-section">{{ parts[1] }}</h2>
+<div class="pg-list">
+{% assign items = site.portfolio | where: "group", parts[0] | sort: "path" | reverse %}
+{% for post in items %}
   {% include archive-single.html %}
+{% endfor %}
+</div>
 {% endfor %}

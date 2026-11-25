@@ -1,16 +1,29 @@
 ---
 layout: archive
-title: "Talks and Seminars"
+title: "Talks & Teaching"
 permalink: /talks/
 author_profile: true
+redirect_from:
+  - /teaching/
 ---
 
-{% if site.talkmap_link == true %}
+<style>
+  #main .page__title { display: none; }
+  .tt-section { font-size: 1.45em; margin: 2.2em 0 0.8em; padding-bottom: 0.35em; border-bottom: 2px solid currentColor; }
+  .tt-section:first-of-type { margin-top: 0.6em; }
+  .tt-list .archive__item-title { font-size: 1.05em; margin-top: 1.2em; }
+</style>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
+<h2 class="tt-section">Talks and Seminars</h2>
+<div class="tt-list">
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+</div>
+
+<h2 class="tt-section">Teaching and Advising</h2>
+<div class="tt-list">
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+</div>
