@@ -50,6 +50,9 @@ coworkers:
   - name: "Yoonsoo Nam"
     affiliation: "Postdoctoral Researcher, Center for Large Language Model Innovation (InnoCORE-LLM), KAIST"
     homepage: "https://yoonsoonam119.github.io"
+  - name: "Chanhaeng Lee"
+    affiliation: "Undergraduate Student, Department of Computer Science and Engineering, Korea University"
+    note: "Incoming graduate student at the Graduate School of AI (GSAI), Seoul National University (Spring 2027)."
 
 collaborators:
   - name: "Byoung-Tak Zhang"
